@@ -1,4 +1,5 @@
 # sm64ex-coop
+### owokitty port credits ✓✓
 
 Unsanctioned WIP fork for Android and other open-source UNIX-like operating systems that are not supported by the normal `sm64ex-coop`, plus improved touchscreen controls. Online multiplayer mod for SM64 that synchronizes all entities and every level for multiple players. Fork of [sm64pc/sm64ex](https://github.com/sm64pc/sm64ex). Contains code copied from [AloXado320/sm64ex-alo](https://github.com/AloXado320/sm64ex-alo), [VDavid003/sm64-port-android](https://github.com/VDavid003/sm64-port-android), [VDavid003/sm64-port-android-base](https://github.com/VDavid003/sm64-port-android-base), and [porcino/sm64-port-android](https://github.com/porcino/sm64-port-android).
 
