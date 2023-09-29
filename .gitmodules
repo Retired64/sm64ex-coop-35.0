@@ -1,0 +1,3 @@
+[submodule "lib/src/coopnet"]
+	path = lib/src/coopnet
+	url = https://github.com/robertkirkman/coopnet.git
